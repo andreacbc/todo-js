@@ -1,6 +1,6 @@
-# WebPack Starter
+# TODO App
 
-This is the initial project to create apps using webpack.
+This is the initial project to create TODO app using webpack and JavaScript.
 
 ### Notes:
 Remember to rebuild node modules 
