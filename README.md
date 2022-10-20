@@ -10,5 +10,5 @@ npm install
 
 and to create the build, remember
 ```
-npm run buil
+npm run build
 ``` 
